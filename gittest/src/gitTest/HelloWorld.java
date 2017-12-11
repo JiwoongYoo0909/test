@@ -10,5 +10,7 @@ public class HelloWorld {
 	public int sum() {
 		return 3+5;
 	}
-
+	public int sub() {
+		return 5-3;
+	}
 }
